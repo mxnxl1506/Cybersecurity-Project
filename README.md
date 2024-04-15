@@ -66,6 +66,6 @@ Feel free to clone or fork this repository to explore the code, run the scripts,
 - Obtain necessary permissions before scanning networks or conducting security assessments.
 - Protect sensitive information and use strong encryption for data privacy.
 
-For questions, feedback, or collaboration opportunities, feel free to reach out via [email](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername).
+For questions, feedback, or collaboration opportunities, feel free to reach out via [email](mailto:manalharoon9@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/manal-haroon-7a3216201/).
 
 Happy exploring and learning in the world of cybersecurity!
