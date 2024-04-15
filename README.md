@@ -46,9 +46,14 @@ Welcome to my cybersecurity projects repository! This repository contains a coll
 - Python script for managing firewall settings using the 'ufw' utility on Linux systems.
   
 ### 10. Spyware
-- Scan target hosts for open TCP ports using socket programming.
-- Detect and report open ports on specified hosts.
+- Record keystrokes, capture system information, clipboard data, and more.
+- Send collected data to a specified server using TCP communication.
 - [Learn more about the Spyware](./spyware/README.md)
+
+### 11. Keylogger
+- Log keystrokes and capture clipboard data.
+- Send captured data to a specified server via TCP connection.
+- [Learn more about the Keylogger](./keylogger/README.md)
 
 
 ## Getting Started
