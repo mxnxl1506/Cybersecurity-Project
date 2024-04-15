@@ -39,6 +39,13 @@ Welcome to my cybersecurity projects repository! This repository contains a coll
 - Detect and report open ports on specified hosts.
 - [Learn more about the Vulnerability Scanner](./vulnerability-scanner/README.md)
 
+### 8. Web Application Firewall (WAF)
+- Basic implementation of a web application firewall (WAF) to detect and prevent common web attacks.
+
+### 9. Firewall Management Tool
+- Python script for managing firewall settings using the 'ufw' utility on Linux systems.
+
+
 ## Getting Started
 To explore these projects, simply click on the links above to navigate to each project's directory. Each project directory contains a detailed `README.md` file with project overview, features, implementation details, and usage instructions.
 
