@@ -44,6 +44,11 @@ Welcome to my cybersecurity projects repository! This repository contains a coll
 
 ### 9. Firewall Management Tool
 - Python script for managing firewall settings using the 'ufw' utility on Linux systems.
+  
+### 10. Spyware
+- Scan target hosts for open TCP ports using socket programming.
+- Detect and report open ports on specified hosts.
+- [Learn more about the Spyware](./spyware/README.md)
 
 
 ## Getting Started
