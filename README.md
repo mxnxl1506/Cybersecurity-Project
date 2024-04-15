@@ -41,6 +41,8 @@ Welcome to my cybersecurity projects repository! This repository contains a coll
 
 ### 8. Web Application Firewall (WAF)
 - Basic implementation of a web application firewall (WAF) to detect and prevent common web attacks.
+- [Learn more about the WAF](./web-application-firewall/README.md)
+
 
 ### 9. Firewall Management Tool
 - Python script for managing firewall settings using the 'ufw' utility on Linux systems.
