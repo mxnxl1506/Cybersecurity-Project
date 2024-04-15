@@ -27,7 +27,7 @@ Welcome to my cybersecurity projects repository! This repository contains a coll
 ### 5. Encryption/Decryption Tool
 - Encrypt and decrypt messages using the Fernet symmetric encryption algorithm.
 - Generate random encryption keys for secure message handling.
-- [Learn more about the Encryption/Decryption Tool](./encryption-decryption-tool/README.md)
+- [Learn more about the Encryption/Decryption Tool](./ENC-DEC-tool/README.md)
 
 ### 6. Intrusion Detection System (IDS)
 - Implement a basic IDS using packet sniffing to monitor network traffic.
